@@ -1,0 +1,5 @@
+airflow.db
+logs/*
+standalone*
+webserver_config.py
+.DS_Store
