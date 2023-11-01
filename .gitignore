@@ -3,3 +3,4 @@ logs/*
 standalone*
 webserver_config.py
 .DS_Store
+fire_dags/__pycache__/*
